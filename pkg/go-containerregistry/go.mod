@@ -6,7 +6,7 @@ toolchain go1.24.10
 
 require (
 	github.com/containerd/stargz-snapshotter/estargz v0.16.3
-	github.com/docker/cli v28.3.0+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/docker/docker v28.3.3+incompatible
 	github.com/google/go-cmp v0.7.0
