@@ -22,7 +22,7 @@ jobs:
     
     steps:      
       - name: Set up Docker
-        uses: docker/setup-docker-action@e61617a16c407a86262fb923c35a616ddbe070b3
+        uses: docker/setup-docker-action@7ec28a010822b4626af4874f9448a4b05ac6f3e5
 
       - name: Install docker-model-plugin
         run: |
